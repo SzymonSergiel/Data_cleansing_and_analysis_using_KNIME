@@ -16,4 +16,4 @@ To repozytorium zawiera projekt analizy danych skupiający się na identyfikacji
 
 - [KNIME](https://www.knime.com/) – analiza danych i przepływy pracy
 - Excel– wstępne przetwarzanie danych
-  LaTeX – przygotowanie dokumentacji technicznej
+- LaTeX – przygotowanie dokumentacji technicznej
